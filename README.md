@@ -27,7 +27,7 @@
 ## Лог-лог регрессия эластичности
 
 <!-- Вставьте сохраненный график сетки OLS-регрессий -->
-![Elasticity Regression Grid](assets/<img width="1492" height="1229" alt="elasticity_grid" src="https://github.com/user-attachments/assets/ca94cab5-3685-48fe-ae85-091761d24b01" />.png)
+(assets/<img width="1492" height="1229" alt="elasticity_grid" src="https://github.com/user-attachments/assets/ca94cab5-3685-48fe-ae85-091761d24b01" />
 
 ---
 
